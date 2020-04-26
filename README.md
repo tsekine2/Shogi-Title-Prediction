@@ -7,4 +7,4 @@ Please read https://qiita.com/tsekine2/items/4db98ec2f7f28446e27f
 
 training file is in ./input/棋士解析(2017_2019) - train.tsv
 
-test file is in 棋士解析(2017_2019) - test.tsv
+test file is in ./input/棋士解析(2017_2019) - test.tsv
